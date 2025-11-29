@@ -18,8 +18,6 @@ Websites, scripts, and breaking my own code so no one else has to.<br>Anything c
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmedyasinvm&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedyasinvm&icon=2&color=0)](https://visitcount.itsvg.in)
